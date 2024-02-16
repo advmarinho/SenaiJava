@@ -18,3 +18,4 @@ public class CargoController {
 		return "/cargo/lista";
 	}
 }
+
